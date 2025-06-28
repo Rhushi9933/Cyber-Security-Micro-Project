@@ -15,7 +15,7 @@ This micro-project explores the concept of **Cyber Security Importance** and its
 
 ## 2.0 Aim of the Micro-Project
 
-To develop a micro-project on **Cyber Security** using **HTML programming**.
+To develop a micro-project using **HTML programming**.
 
 ---
 
